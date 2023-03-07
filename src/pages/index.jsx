@@ -46,7 +46,7 @@ const Demos = () => {
 export const Head = () => {
   return (
     <>
-      <title>Vie - Demos</title>
+      <title>UIUX STORE | Creative Agency And Store</title>
       <link rel="stylesheet" href="demo.css" />
     </>
   );
